@@ -1,0 +1,2 @@
+# twitter-trend-blocker
+twitter webappのトレンドを非表示にするAdGuardユーザールール。AdGuardのChrome拡張機能版にインポートして使用します。
